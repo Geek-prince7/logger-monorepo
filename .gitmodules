@@ -1,0 +1,6 @@
+[submodule "services/log-cdn"]
+	path = services/log-cdn
+	url = https://github.com/Geek-prince7/log-cdn.git
+[submodule "services/node-logger-sdk"]
+	path = services/node-logger-sdk
+	url = https://github.com/Geek-prince7/node-sdk-log-collector.git
