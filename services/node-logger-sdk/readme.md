@@ -1,1 +1,0 @@
-<!-- Logger SDK for Node.js -->

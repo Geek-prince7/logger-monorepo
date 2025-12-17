@@ -1,1 +1,0 @@
-# Log CDN FastAPI Application
